@@ -114,3 +114,6 @@
 	path = cosmic-sound-theme
 	url = https://github.com/pop-os/cosmic-sound-theme.git
 	branch = master
+[submodule "cosmic-sory-ia"]
+	path = cosmic-sory-ia
+	url = https://github.com/sory-os-org/cosmic-sory-ia.git
