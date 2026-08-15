@@ -1,118 +1,118 @@
 [submodule "cosmic-session"]
     path = cosmic-session
-    url = https://github.com/pop-os/cosmic-session
+    url = https://github.com/sory-os-org/cosmic-session
     branch = master
 [submodule "cosmic-comp"]
     path = cosmic-comp
-    url = https://github.com/pop-os/cosmic-comp
+    url = https://github.com/sory-os-org/cosmic-comp
     branch = master
 [submodule "cosmic-panel"]
     path = cosmic-panel
-    url = https://github.com/pop-os/cosmic-panel
+    url = https://github.com/sory-os-org/cosmic-panel
     branch = master
 [submodule "cosmic-applets"]
     path = cosmic-applets
-    url = https://github.com/pop-os/cosmic-applets
+    url = https://github.com/sory-os-org/cosmic-applets
     branch = master
 [submodule "cosmic-applibrary"]
     path = cosmic-applibrary
-    url = https://github.com/pop-os/cosmic-applibrary
+    url = https://github.com/sory-os-org/cosmic-applibrary
     branch = master
 [submodule "cosmic-launcher"]
     path = cosmic-launcher
-    url = https://github.com/pop-os/cosmic-launcher
+    url = https://github.com/sory-os-org/cosmic-launcher
     branch = master
 [submodule "simple-wrapper"]
     path = simple-wrapper
-    url = https://github.com/pop-os/simple-wrapper
+    url = https://github.com/sory-os-org/simple-wrapper
     branch = master
 [submodule "cosmic-settings"]
     path = cosmic-settings
-    url = https://github.com/pop-os/cosmic-settings
+    url = https://github.com/sory-os-org/cosmic-settings
     branch = master
 [submodule "cosmic-settings-daemon"]
     path = cosmic-settings-daemon
-    url = https://github.com/pop-os/cosmic-settings-daemon
+    url = https://github.com/sory-os-org/cosmic-settings-daemon
     branch = master
 [submodule "xdg-desktop-portal-cosmic"]
     path = xdg-desktop-portal-cosmic
-    url = https://github.com/pop-os/xdg-desktop-portal-cosmic.git
+    url = https://github.com/sory-os-org/xdg-desktop-portal-cosmic.git
     branch = master
 [submodule "cosmic-osd"]
     path = cosmic-osd
-    url = https://github.com/pop-os/cosmic-osd.git
+    url = https://github.com/sory-os-org/cosmic-osd.git
     branch = master
 [submodule "cosmic-bg"]
     path = cosmic-bg
-    url = https://github.com/pop-os/cosmic-bg.git
+    url = https://github.com/sory-os-org/cosmic-bg.git
     branch = master
 [submodule "cosmic-workspaces-epoch"]
     path = cosmic-workspaces-epoch
-    url = https://github.com/pop-os/cosmic-workspaces-epoch/
+    url = https://github.com/sory-os-org/cosmic-workspaces-epoch/
     branch = master
 [submodule "cosmic-notifications"]
     path = cosmic-notifications
-    url = https://github.com/pop-os/cosmic-notifications
+    url = https://github.com/sory-os-org/cosmic-notifications
     branch = master
 [submodule "cosmic-icons"]
     path = cosmic-icons
-    url = https://github.com/pop-os/cosmic-icons.git
+    url = https://github.com/sory-os-org/cosmic-icons.git
     branch = master
 [submodule "cosmic-greeter"]
     path = cosmic-greeter
-    url = https://github.com/pop-os/cosmic-greeter
+    url = https://github.com/sory-os-org/cosmic-greeter
     branch = master
 [submodule "cosmic-screenshot"]
     path = cosmic-screenshot
-    url = https://github.com/pop-os/cosmic-screenshot
+    url = https://github.com/sory-os-org/cosmic-screenshot
     branch = master
 [submodule "cosmic-edit"]
     path = cosmic-edit
-    url = https://github.com/pop-os/cosmic-edit
+    url = https://github.com/sory-os-org/cosmic-edit
     branch = master
 [submodule "cosmic-term"]
     path = cosmic-term
-    url = https://github.com/pop-os/cosmic-term.git
+    url = https://github.com/sory-os-org/cosmic-term.git
     branch = master
 [submodule "cosmic-randr"]
     path = cosmic-randr
-    url = https://github.com/pop-os/cosmic-randr.git
+    url = https://github.com/sory-os-org/cosmic-randr.git
     branch = master
 [submodule "cosmic-files"]
     path = cosmic-files
-    url = https://github.com/pop-os/cosmic-files.git
+    url = https://github.com/sory-os-org/cosmic-files.git
     branch = master
 [submodule "cosmic-store"]
     path = cosmic-store
-    url = https://github.com/pop-os/cosmic-store.git
+    url = https://github.com/sory-os-org/cosmic-store.git
     branch = master
 [submodule "cosmic-wallpapers"]
 	path = cosmic-wallpapers
-	url = https://github.com/pop-os/cosmic-wallpapers.git
+	url = https://github.com/sory-os-org/cosmic-wallpapers.git
 	branch = master
 [submodule "cosmic-idle"]
 	path = cosmic-idle
-	url = https://github.com/pop-os/cosmic-idle.git
+	url = https://github.com/sory-os-org/cosmic-idle.git
 	branch = master
 [submodule "cosmic-player"]
 	path = cosmic-player
-	url = https://github.com/pop-os/cosmic-player.git
+	url = https://github.com/sory-os-org/cosmic-player.git
 	branch = master
 [submodule "cosmic-initial-setup"]
 	path = cosmic-initial-setup
-	url = https://github.com/pop-os/cosmic-initial-setup
+	url = https://github.com/sory-os-org/cosmic-initial-setup
 	branch = master
 [submodule "pop-launcher"]
 	path = pop-launcher
-	url = https://github.com/pop-os/launcher.git
+	url = https://github.com/sory-os-org/launcher.git
 	branch = master
 [submodule "cosmic-monitor"]
 	path = cosmic-monitor
-	url = https://github.com/pop-os/cosmic-monitor.git
+	url = https://github.com/sory-os-org/cosmic-monitor.git
 	branch = master
 [submodule "cosmic-sound-theme"]
 	path = cosmic-sound-theme
-	url = https://github.com/pop-os/cosmic-sound-theme.git
+	url = https://github.com/sory-os-org/cosmic-sound-theme.git
 	branch = master
 [submodule "cosmic-sory-ia"]
 	path = cosmic-sory-ia
